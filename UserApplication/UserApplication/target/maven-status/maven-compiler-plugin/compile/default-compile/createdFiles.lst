@@ -1,0 +1,17 @@
+com\user\application\UserService.class
+com\user\dto\Location.class
+com\user\dto\Name.class
+com\user\ports\in\UserServicePort.class
+com\user\dto\RandomUserResponse.class
+com\user\ports\out\UserRepositoryPort.class
+com\user\infrastructure\rest\UserController.class
+com\user\domain\User$UserBuilder.class
+com\user\UserApplication.class
+com\user\dto\ApiResponse.class
+com\user\dto\Login.class
+com\user\infrastructure\persistence\SpringDataUserRepository.class
+com\user\dto\RandomUser.class
+com\user\infrastructure\persistence\UserRepository.class
+com\user\dto\Picture.class
+com\user\config\SwaggerConfig.class
+com\user\domain\User.class

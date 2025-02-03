@@ -1,0 +1,16 @@
+C:\Users\Usuario\IdeaProjects\UserApplication\src\main\java\com\user\application\UserService.java
+C:\Users\Usuario\IdeaProjects\UserApplication\src\main\java\com\user\config\SwaggerConfig.java
+C:\Users\Usuario\IdeaProjects\UserApplication\src\main\java\com\user\domain\User.java
+C:\Users\Usuario\IdeaProjects\UserApplication\src\main\java\com\user\dto\ApiResponse.java
+C:\Users\Usuario\IdeaProjects\UserApplication\src\main\java\com\user\dto\Location.java
+C:\Users\Usuario\IdeaProjects\UserApplication\src\main\java\com\user\dto\Login.java
+C:\Users\Usuario\IdeaProjects\UserApplication\src\main\java\com\user\dto\Name.java
+C:\Users\Usuario\IdeaProjects\UserApplication\src\main\java\com\user\dto\Picture.java
+C:\Users\Usuario\IdeaProjects\UserApplication\src\main\java\com\user\dto\RandomUser.java
+C:\Users\Usuario\IdeaProjects\UserApplication\src\main\java\com\user\dto\RandomUserResponse.java
+C:\Users\Usuario\IdeaProjects\UserApplication\src\main\java\com\user\infrastructure\persistence\SpringDataUserRepository.java
+C:\Users\Usuario\IdeaProjects\UserApplication\src\main\java\com\user\infrastructure\persistence\UserRepository.java
+C:\Users\Usuario\IdeaProjects\UserApplication\src\main\java\com\user\infrastructure\rest\UserController.java
+C:\Users\Usuario\IdeaProjects\UserApplication\src\main\java\com\user\ports\in\UserServicePort.java
+C:\Users\Usuario\IdeaProjects\UserApplication\src\main\java\com\user\ports\out\UserRepositoryPort.java
+C:\Users\Usuario\IdeaProjects\UserApplication\src\main\java\com\user\UserApplication.java
